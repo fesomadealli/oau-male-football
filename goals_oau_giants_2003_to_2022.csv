@@ -1,0 +1,68 @@
+,Year,Venue,CompGroup,Competition,Team,Opponent,FTTG,FTOG,FTR,HTTG,HTOG,HTR,SHTG,SHOG,SHR
+0,2003,"Futo, Owerri",NUFOL Games,2nd NUFOL,OAU Giants,LAUTECH,1,0,W,1,0,W,0,0,D
+1,2003,"Futo, Owerri",NUFOL Games,2nd NUFOL,OAU Giants,FUTA,5,2,W,3,1,W,2,1,W
+2,2003,"Buk, Kano",NUFOL Games,2nd NUFOL,OAU Giants,UNN,0,0,D,0,0,D,0,0,D
+3,2003,"Buk, Kano",NUFOL Games,2nd NUFOL,OAU Giants,FUTO,2,1,W,1,1,D,1,0,W
+4,2003,"Unilag, Lagos",NUFOL Games,2nd NUFOL,OAU Giants,ABU,1,2,L,1,1,D,0,1,L
+5,2003,"Unilag, Lagos",NUFOL Games,2nd NUFOL,OAU Giants,UNILAG,0,1,L,0,0,D,0,1,L
+6,2004,Benin,NUFOL Games,3rd NUFOL,OAU Giants,LAUTECH,3,0,W,0,0,D,3,0,W
+7,2004,Benin,NUFOL Games,3rd NUFOL,OAU Giants,UNIPORT,0,1,L,0,0,D,0,1,L
+8,2005,Igbinedion University Okada town,NUFOL Games,4th NUFOL,OAU Giants,FUTMUBI,2,0,W,1,0,W,1,0,W
+9,2005,Igbinedion University Okada town,NUFOL Games,4th NUFOL,OAU Giants,BUK,1,0,W,1,0,W,0,0,D
+10,2005,Igbinedion University Okada town,NUFOL Games,4th NUFOL,OAU Giants,ABU,2,0,W,2,0,W,0,0,D
+11,2005,Igbinedion University Okada town,NUFOL Games,4th NUFOL,OAU Giants,UNIMAID,4,0,W,0,0,D,4,0,W
+12,2005,Igbinedion University Okada town,NUFOL Games,4th NUFOL,OAU Giants,OOU,2,1,W,1,0,W,1,1,D
+13,2006,"Ilorin, Kwara",PreNUGA,2006 PreNUGA,OAU Giants,LAUTECH,1,1,D,0,1,L,1,0,W
+14,2007,Maiduguri,NUGA Games,2007 NUGA Games (Unimaid 2007),OAU Giants,UNIMAID,1,0,W,1,0,W,0,0,D
+15,2007,Maiduguri,NUGA Games,2007 NUGA Games (Unimaid 2007),OAU Giants,FUTYOLA,0,0,D,0,0,D,0,0,D
+17,2007,Maiduguri,NUGA Games,2007 NUGA Games (Unimaid 2007),OAU Giants,UNIUYO,0,0,D,0,0,D,0,0,D
+18,2007,Maiduguri,NUGA Games,2007 NUGA Games (Unimaid 2007),OAU Giants,ABU,0,0,D,0,0,D,0,0,D
+19,2007,Maiduguri,NUGA Games,2007 NUGA Games (Unimaid 2007),OAU Giants,UNIMAID,0,1,L,0,1,L,0,0,D
+20,2010,"OAU Sports Complex, Ile-Ife",PreNUGA,2010 PreNUGA,OAU Giants,UNILORIN,2,0,W,1,0,W,1,0,W
+21,2010,"OAU Sports Complex, Ile-Ife",PreNUGA,2010 PreNUGA,OAU Giants,ACHIEVERS,2,0,W,1,0,W,1,0,W
+22,2011,Benin,NUGA Games,2011 NUGA Games (Uniben 2011),OAU Giants,UNN,0,1,L,0,1,L,0,0,D
+23,2011,Benin,NUGA Games,2011 NUGA Games (Uniben 2011),OAU Giants,UI,1,2,L,1,0,W,0,2,L
+24,2011,Benin,NUGA Games,2011 NUGA Games (Uniben 2011),OAU Giants,KSU,6,2,W,2,1,W,4,1,W
+25,2014,"OAU Sports Complex, Ile-Ife",NUGA Games,2014 NUGA Games (Oau 2014),OAU Giants,EKSU,4,1,W,2,0,W,2,1,W
+26,2014,"OAU Sports Complex, Ile-Ife",NUGA Games,2014 NUGA Games (Oau 2014),OAU Giants,UNICAL,1,1,D,0,1,L,1,0,W
+27,2014,"OAU Sports Complex, Ile-Ife",NUGA Games,2014 NUGA Games (Oau 2014),OAU Giants,NDU,2,1,W,1,0,W,1,1,D
+28,2014,"OAU Sports Complex, Ile-Ife",NUGA Games,2014 NUGA Games (Oau 2014),OAU Giants,UNILAG,2,1,W,1,0,W,1,1,D
+29,2014,"OAU Sports Complex, Ile-Ife",NUGA Games,2014 NUGA Games (Oau 2014),OAU Giants,UNICAL,1,0,W,0,0,D,1,0,W
+30,2015,"Unn, Nsukka",WAUG,2015 West African University Games (Unn 2015),OAU Giants,UNN,0,1,L,0,0,D,0,1,L
+31,2015,"Unn, Nsukka",WAUG,2015 West African University Games (Unn 2015),OAU Giants,BSU,0,0,D,0,0,D,0,0,D
+32,2016,"Kwasu, Malete, Kwara",PreNUGA,2016 PreNUGA,OAU Giants,UNILORIN,1,3,L,1,1,D,0,2,L
+33,2016,"Kwasu, Malete, Kwara",PreNUGA,2016 PreNUGA,OAU Giants,AAUA,2,2,D,1,1,D,1,1,D
+34,2016,"Kwasu, Malete, Kwara",PreNUGA,2016 PreNUGA,OAU Giants,EKSU,1,2,L,1,0,W,0,2,L
+35,2018,"UI Sports Complex, Ibadan",HiFL,2018 Higher Institutions' Football League,OAU Giants,UI,3,3,D,2,3,L,1,0,W
+36,2018,"OAU Sports Complex, Ile-Ife",HiFL,2018 Higher Institutions' Football League,OAU Giants,UI,3,0,W,2,0,W,1,0,W
+37,2018,"OAU Sports Complex, Ile-Ife",HiFL,2018 Higher Institutions' Football League,OAU Giants,UAM,5,3,W,2,2,D,3,1,W
+38,2018,"Uam Sports Complex, Makurdi",HiFL,2018 Higher Institutions' Football League,OAU Giants,UAM,0,3,L,0,2,L,0,1,L
+39,2018,"Agege Stadium, Lagos",HiFL,2018 Higher Institutions' Football League,OAU Giants,UNILORIN,3,1,W,0,0,D,3,1,W
+40,2019,"Oduduwa College, Ile-Ife",Peace Cup,Prof. Adedoyin Peace Cup,OAU Giants,Sabo Strikers,0,0,D,0,0,D,0,0,D
+41,2019,"Oduduwa College, Ile-Ife",Peace Cup,Prof. Adedoyin Peace Cup,OAU Giants,Ase Irorun,1,0,W,0,0,D,1,0,W
+42,2019,"Ife Grammar School, Ile-Ife",Peace Cup,Prof. Adedoyin Peace Cup,OAU Giants,Kings Dominion FC,2,0,W,1,0,W,1,0,W
+43,2019,"Oduduwa College, Ile-Ife",Peace Cup,Prof. Adedoyin Peace Cup,OAU Giants,Akoraye Eagles,2,0,W,1,0,W,1,0,W
+44,2019,"Oduduwa College, Ile-Ife",Peace Cup,Prof. Adedoyin Peace Cup,OAU Giants,E-Springs FC,2,0,W,1,0,W,1,0,W
+45,2019,"OAU Sports Complex, Ile-Ife",Peace Cup,Prof. Adedoyin Peace Cup,OAU Giants,Successful Christian Mission FC,0,0,D,0,0,D,0,0,D
+46,2019,"OAU Sports Complex, Ile-Ife",HiFL,2019 Higher Institutions' Football League,OAU Giants,UI,2,0,W,2,0,W,0,0,D
+47,2019,"UI Sports Complex, Ibadan",HiFL,2019 Higher Institutions' Football League,OAU Giants,UI,1,0,W,1,0,W,0,0,D
+48,2019,"OAU Sports Complex, Ile-Ife",HiFL,2019 Higher Institutions' Football League,OAU Giants,LASU,2,0,W,0,0,D,2,0,W
+49,2019,"LASU Sports Center, Iyana-Iba",HiFL,2019 Higher Institutions' Football League,OAU Giants,LASU,1,2,L,1,1,D,0,1,L
+50,2019,"OAU Sports Complex, Ile-Ife",HiFL,2019 Higher Institutions' Football League,OAU Giants,UAM,1,1,D,0,0,D,1,1,D
+51,2019,"UAM Sports Complex, Makurdi",HiFL,2019 Higher Institutions' Football League,OAU Giants,UAM,1,1,D,0,0,D,1,1,D
+52,2019,"Agege Stadium, Lagos",HiFL,2019 Higher Institutions' Football League,OAU Giants,UNILORIN,0,0,D,0,0,D,0,0,D
+53,2021,"AAUA Sports Complex, Akungba",HiFL,2021 Higher Institutions' Football League,OAU Giants,AAUA,0,0,D,0,0,D,0,0,D
+54,2021,"OAU Sports Complex, Ile-Ife",HiFL,2021 Higher Institutions' Football League,OAU Giants,AAUA,1,1,D,0,0,D,1,1,D
+55,2022,"OAU Sports Complex, Ile-Ife",PreNUGA,2022 PreNUGA,OAU Giants,AAUA,1,0,W,1,0,W,0,0,D
+56,2022,"OAU Sports Complex, Ile-Ife",PreNUGA,2022 PreNUGA,OAU Giants,FUTA,1,0,W,0,0,D,1,0,W
+57,2022,"Unilag Sports Center, Akoka",NUGA Games,2022 NUGA Games (Unilag 2022),OAU Giants,IAUE,2,2,D,1,0,W,1,2,L
+58,2022,"Unilag Sports Center, Akoka",NUGA Games,2022 NUGA Games (Unilag 2022),OAU Giants,FUDMA,1,0,W,0,0,D,1,0,W
+59,2022,"Unilag Sports Center, Akoka",NUGA Games,2022 NUGA Games (Unilag 2022),OAU Giants,UI,0,1,L,0,0,D,0,1,L
+60,2022,"YabaTech Sports Center, Lagos",NUGA Games,2022 NUGA Games (Unilag 2022),OAU Giants,KSU,4,1,W,2,0,W,2,1,W
+61,2022,"Unilag Sports Center, Akoka",NUGA Games,2022 NUGA Games (Unilag 2022),OAU Giants,UNILAG,1,1,D,0,0,D,1,1,D
+62,2022,"Unilag Sports Center, Akoka",NUGA Games,2022 NUGA Games (Unilag 2022),OAU Giants,UNILORIN,0,0,D,0,0,D,0,0,D
+63,2022,"Unilag Sports Center, Akoka",HiFL,2022 Higher Institutions' Football League,OAU Giants,TASUED,1,0,W,0,0,D,1,0,W
+64,2022,"Unilag Sports Center, Akoka",HiFL,2022 Higher Institutions' Football League,OAU Giants,ABUAD,2,0,W,1,0,W,1,0,W
+65,2022,"Unilag Sports Center, Akoka",HiFL,2022 Higher Institutions' Football League,OAU Giants,EKSU,1,2,L,1,1,D,0,1,L
+66,2022,"Unilag Sports Center, Akoka",HiFL,2022 Higher Institutions' Football League,OAU Giants,UNILAG,0,0,D,0,0,D,0,0,D
+67,2022,"Unilag Sports Center, Akoka",HiFL,2022 Higher Institutions' Football League,OAU Giants,UNIOSUN,2,0,W,2,0,W,0,0,D
