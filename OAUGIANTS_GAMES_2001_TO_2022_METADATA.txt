@@ -1,0 +1,83 @@
+These datasets were collated and compiled by AlliNewsNigeria..							
+"AlliNewsNigeria is a sports brand that majors in collegiate sports. 
+The brand is actively involved in sports media and sports data management activities."										
+DATASET ONE: OAUGIANTS_GAMES_2001_TO_2022									
+DATASET DESCRIPTION							
+"This dataset was collated and compiled by AlliNewsNigeria. 
+Dataset contains basic details of major football matches played by the Male Team of the Obafemi Awolowo University between 2001-2022. 
+Please refer to the metadata attached to this dataset and saved as a *.txt document for background information on the dataset. 
+This dataset may be missing some parts so, kindly send a mail to allinewsnigeria@gmail.com to get an updated version."																				
+DATA SOURCES							
+"The data was compiled from a variety of trusted sources and carefully vetted and  inspected.
+Compilation process featured physical and online interviews, a vast amount of online sources 
+and an extract from the AlliNews archive which has been used to collect and store such data over the years."														
+VERSION														
+This dataset was last updated on January 2022			
+DATA ENCODING & COLUMN DESCRIPTION							
+Date	"This is the date the match was played and format is in yyyymmdd. For matches affected by incomplete information, the information was coded to the point where data was available 
+with the rest of unavailable information represented with consecutive zeroes. For example, 20201000 would refer to a match played in October of 2020 but the exact day was unknown."						
+Venue	This column carries details of where the match was played and it is as precise as the available data revealed													
+Time	This is the time of kickoff						
+MatchID	This is a unique set of six digit numbers to label each match entry as part of AlliNews archive/database						
+Competition	This is the competition to which such match belonged.													
+Grouping	This further describes the match as relating to the competition in which it was played						
+Format	"This is the format which the competition was structured and it varies across different competitions. Tournament for example, refer to competitions that have customized formats.
+Competitions where the format is not clear, Tournament was mostly used as the default entry."						
+Tie	This provides additional information about the competition and the match						
+TieDescr	"This provides additional information about the competition and the match. Some competitions are two-legged (Home & Away) with whether the team played at a recognized home ground 
+or not being a pronouned part of that fixture and as such influences the interpretation of the results from that match/tie in such competition. "						
+HomeTeam	"Some competitions are in Home & Away format and in such cases, this column correctly indicates which team was the Home Team. 
+Some single legged ties also have designated home teams by schedule but this holds no significance in such ties, however, for matches where this was unclear, 
+Oau was mostly set to be the home team  provided the match location did not have a relation to the opposition team (venue was potentially neutral ground to both teams)."						
+AwayTeam	Some competitions are in Home & Away format and in such cases, this column correctly indicates which team was the Away Team.						
+HTHG	Half Time HomeTeam Goals						
+HTAG	Half Time AwayTeam Goals						
+FTHG	Full Time HomeTeam Goals						
+FTAG	Full Time AwayTeam Goals						
+AETHG	HomeTeam Goals After Extra Time 						
+AETAG	 AwayTeam Goals After Extra Time						
+PENHG	HomeTeam Goals during Penalty Shootout						
+PENAG	AwayTeam Goals during Penalty Shootout						
+FORM	This is the interpretation of the match result with respect to OAU Giants (Win, Draw or Loss)						
+MatchRemarks	"The dataset contains postponed matches, abandoned fixtures, inconclusive matches or anulled matches 
+and this could occur for various reasons hence it is important to label completed and approved matches for ease."													
+Note	"Additional info about the matches, results or the remarks. Most columns are left empty so as to attach mild significance to the columns that may carry such notes 
+thereby making them important for the analyst to checkout before analysis is done."						
+FormPen	This is the team result with respect to a penalty shootout whether a win or a loss						
+GScorers(Info)	Provides information about the goalscorers.  Detailed collection of such info did not start until 2018.						
+MOTM	Indicates who was named Man of The Match in the fixture. Info is only added when an Oau player is the recipient of such award.						
+HalfLength	"College fixtures are affected by certain inconsistencies particularly with 
+timing hence we could indicate how long each match actually lasted."																			
+DATASET TWO: OAUGIANTS_MATCH_APPS_DATA										
+DATASET DESCRIPTION						
+"This dataset was collated and compiled by AlliNewsNigeria. 
+Dataset contains details of match appearances in football matches played by the Male Team of the Obafemi Awolowo University between 2018-2022. 
+Confidence on the data collected about match Starts is much higher than that collected on other parts encoded in the dataset. 
+Please refer to the metadata attached to this dataset and saved as a *.txt document for background information on the dataset. 
+This dataset may be missing some parts so, kindly send a mail to allinewsnigeria@gmail.com to get an updated version."													
+DATA SOURCES							
+"The data was compiled from a variety of trusted sources and carefully vetted and  inspected.
+Compilation process featured physical and online interviews, a vast amount of online sources 
+and an extract from the AlliNews archive which has been used to collect and store such data over the years."																					
+VERSION														
+This dataset was last updated in January 2022																
+DATA ENCODING & COLUMN DESCRIPTION						
+"The first cell indicates the competition and the Player Name column refers to  the squad list taken to the tournament as revealed by the available information during data entry. 
+Pos column referes to the recognized positions of  the player in the squad and doesn't update per match in cases where a player might be deployed in another position at the discretion of the Coach. 
+Subsequent columns are labelled with the MatchIDs for every match played by the OAU Giants in the tournament. 
+
+Width of the data is decided by the tournaments attended 
+Width of data is decided by length of matches played as indicated by the match IDs and this may vary from one tournament to another.
+
+The 1s are used to indicate Starts, that is, players who started the game
+The 0.5s refer to Used Substitutes
+The 0 for Unused Substitutes
+And * for players who bagged MOTM Awards.
+
+Data Entry Confidence is much higher on starts than the substitutes. "																	
+																																			
+																																			
+																																			
+																																			
+																																			
+																																			
